@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\SebastianLato\\Documents\\cyberweb-security1.6\\cyberweb-security\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\SebastianLato\\Documents\\cyberweb-security1.6\\cyberweb-security\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/SebastianLato/Documents/cyberweb-security1.6/cyberweb-security/./src/main/frontend/generated/jar-resources",
+  "themeName": "cyberweb-app",
+  "clientServiceWorkerSource": "C:\\Users\\SebastianLato\\Documents\\cyberweb-security1.6\\cyberweb-security\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
